@@ -1,2 +1,3 @@
-# mis-primeros-pasos-ia
-Mi primer repositorio aprendiendo Git y IA desde La Oroya
+# ¡Hola mundo! Soy Angela
+Estoy estudiando Ingeniería de Software con IA en SENATI. 
+Este es mi primer repositorio.
