@@ -9,7 +9,7 @@ base_conocimiento = {
 }
 
 #Solicitud de entrada de usuario simulación
-pregunta_usuario = "ia"
+pregunta_usuario = input("Escribe tu pregunta (hola / senati / ia: ").lower()
 
 print (f"Usuario pregunta: {pregunta_usuario}")
 
